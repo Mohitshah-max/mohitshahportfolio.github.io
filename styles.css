@@ -66,6 +66,9 @@ section {
   display: flex;
   gap: 50px;
   align-items: center;
+  background-image: url('design.png');
+  background-size: cover;
+  background-position: center;
 }
 
 .home-img img {
@@ -248,4 +251,5 @@ section {
   .project .heading {
     font-size: 2rem;
   }
+
 }
